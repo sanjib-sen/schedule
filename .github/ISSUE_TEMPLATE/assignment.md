@@ -1,13 +1,13 @@
 ---
 name: Assignment
-about: 'Deadline: '
-title: "[Course]"
+about: All the Assignments
+title: "[Course] [Assignment X] XX November 2021"
 labels: Assignment
 assignees: sanjib-sen
 
 ---
 
-Course:
+Deadline:
 
 Syllabus:
 
